@@ -6,11 +6,21 @@
     <description>Recent content on JStock U.S. Investing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Mar 2016 21:07:13 +0100</lastBuildDate>
     
 	<atom:link href="https://investing.jstock.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://investing.jstock.co/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>https://investing.jstock.co/</guid>
+      <description>Who are we? Yocto Enterprise, business registration no. 002598402-W develops and distributes JStock Android and JStock Desktop, to provide users with the ability to purchase selected securities listed on United States stock exchanges, including fractional interests in those securities.
+When you sign up using JStock Android or JStock Desktop, you agree to commence the application process for a:
+ DriveWealth, LLC US brokerage account.  We have entered into a Foreign Finder Agreement with DriveWealth, LLC (DriveWealth).</description>
+    </item>
     
     <item>
       <title>Getting started</title>
@@ -53,16 +63,6 @@ Localization Currently, it is possible to collect all strings in a single place 
       <description>Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
 Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
-    </item>
-    
-    <item>
-      <title>Material for Hugo</title>
-      <link>https://investing.jstock.co/</link>
-      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
-      
-      <guid>https://investing.jstock.co/</guid>
-      <description>Beautiful documentation Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.
-Material is very lightweight – it is built from scratch using Javascript and CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts and Analytics). Yet, it is highly customizable and degrades gracefully in older browsers.</description>
     </item>
     
   </channel>
