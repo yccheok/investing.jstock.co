@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://investing.jstock.co/"
 languageCode = "en-us"
 title = "JStock U.S. Investing"
 theme = "hugo-material-docs"
