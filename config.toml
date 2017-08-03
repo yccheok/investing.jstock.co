@@ -8,18 +8,8 @@ canonifyurls = true
 googleAnalytics = ""
 
 [params]
-	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
-
-	# Repository
-	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
-
-	version = "1.0.0"
 	logo = "images/logo.png"
-	favicon = ""
+	favicon = "images/favicon.ico"
 
 	permalink = "#"
 
@@ -40,17 +30,16 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "digitalcraftsman"
 	email   = "hello@email.com"
 
 
 [[menu.main]]
-	name   = "Material"
+	name   = "Getting started"
 	url    = "/"
-	weight = 0
+	weight = 1
 
 [[menu.main]]
-	name   = "Getting started"
+	name   = "Getting started X"
 	url    = "getting-started/"
 	weight = 10
 
