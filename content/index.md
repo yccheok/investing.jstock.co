@@ -21,6 +21,10 @@ DriveWealth, LLC is an SEC-registered broker/dealer and a member of FINRA and SI
 
 DriveWealth is partnered with Industrial and Commercial Bank of China Financial Services ("ICBSFS"), the US subsidiary of the Industrial and Commercial Bank of China, the largest bank in the world, as its clearing agent.
 
+## What is foreign finder?
+
+Yocto Enterprise acts as a foreign finder, who provides customer introduction to DriveWealth’s brokerage service. We're compensated by DriveWealth on a per transaction basis, as a percent of the transaction commission that DriveWealth earns from the introduced customer, as long as the customer remains a customer of DriveWealth. Finder would be paid a U.S. dollar fee (by DriveWealth, at no cost to  customer) monthly in arrears.
+
 ## Is it safe?
 
 We utilize the latest SSL technology to encrypt, monitor and protect your data. Investor securities are held in an omnibus account in DriveWealth’s name at the Industrial and Commercial Bank of China Financial Services ("ICBSFS"), the US subsidiary of the Industrial and Commercial Bank of China, the largest bank in the world in terms of customers and assets.  Investor cash is swept into a money market account at Federated Investors, Inc., a leading cash management firm.
