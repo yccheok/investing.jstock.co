@@ -35,8 +35,8 @@ googleAnalytics = ""
 
 [[menu.main]]
 	name   = "Getting started"
-	url    = "/"
-	weight = 1
+	url    = "getting-started/"
+	weight = 10
 
 [[menu.main]]
 	name   = "Accounts"
@@ -45,7 +45,7 @@ googleAnalytics = ""
 
 [[menu.main]]
 	name   = "Deposit & Withdrawal"
-	url    = "funds/"
+	url    = "deposit-withdrawal/"
 	weight = 30
 
 
