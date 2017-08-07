@@ -13,7 +13,7 @@ When you sign up using JStock Android or JStock Desktop, you agree to commence t
 
 * DriveWealth, LLC US brokerage account.
 
-We have entered into a Foreign Finder Agreement with DriveWealth, LLC (DriveWealth). DriveWealth provides execution and clearing services to the customer. Your identity will be disclosed to DriveWealth, so that DriveWealth can enter into a broking agreement with you. 
+We have entered into a Foreign Finder Agreement with DriveWealth, LLC (DriveWealth). DriveWealth provides execution and clearing services to the customer. Your identity will be disclosed to DriveWealth, so that DriveWealth can enter into a broking agreement with you.
 
 ## Who is DriveWealth?
 

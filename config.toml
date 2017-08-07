@@ -1,4 +1,4 @@
-baseurl = "https://investing.jstock.co/"
+baseurl = "https://shuwnyuantee.github.io/investing.jstock.co/"
 languageCode = "en-us"
 title = "JStock U.S. Investing"
 theme = "hugo-material-docs"
@@ -35,23 +35,19 @@ googleAnalytics = ""
 
 [[menu.main]]
 	name   = "Getting started"
-	url    = "/"
+	url    = "getting-started/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
+	name   = "Accounts"
+	url    = "accounts/"
 	weight = 20
 
 [[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
+	name   = "Deposit & Withdrawal"
+	url    = "deposit-withdrawal/"
 	weight = 30
 
-[[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 40
 
 
 [blackfriday]
