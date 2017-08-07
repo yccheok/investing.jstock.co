@@ -14,13 +14,15 @@ Yes, you can open a FREE Practice Investing Account by simply providing your Fir
 
 
 
-```go
-Notes:
+{{< note title="Practice Accounts" >}}
 
-Practice Accounts are open 24/7 but prices only update during normal market hours.
-They are available to users risk free and at no cost. They are to be utilized for educational purposes only.
+They are open 24/7 but prices only update during normal market hours.
+
+They are available to users risk free, at no cost & for educational purposes only.
+
 They are funded with virtual dollars, not real dollars, which means that a user can neither gain nor lose money.
-```
+
+{{< /note >}}
 
 
 
