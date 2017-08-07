@@ -5,7 +5,7 @@ weight: 30
 ---
 
 
-## How to deposit money to my account?
+## How to deposit money?
 
 While your account application is under review, you may already start deposit money into your account. Just click on `PENDING APPROVAL`, choose your desired deposit method to deposit.
 
@@ -18,7 +18,7 @@ If your account is already approved, just click on `CASH DEPOSIT`.
 
 
 
-## What methods can I used to deposit funds?
+## Payment methods for deposit
 
 To deposit funds into your Live Investing Account, the following methods are available:
 
@@ -39,7 +39,7 @@ Your funds are held with Federated Investors, Inc.
 
 
 
-## How to withdraw money from my account?
+## How to withdraw money?
 
 To withdraw money from your Live Investing Account, click on `Cash` card, select `Withdraw Funds` tab.
 
