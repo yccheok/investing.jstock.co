@@ -151,27 +151,9 @@
 
 
 
-<a  title="Getting started" href="https://investing.jstock.co/">
+<a class="current" title="Getting started" href="https://investing.jstock.co/getting-started/">
 	
 	Getting started
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a class="current" title="Getting started X" href="https://investing.jstock.co/getting-started/">
-	
-	Getting started X
 </a>
 
 
@@ -190,9 +172,9 @@
 
 
 
-<a  title="Adding content" href="https://investing.jstock.co/adding-content/">
+<a  title="Accounts" href="https://investing.jstock.co/accounts/">
 	
-	Adding content
+	Accounts
 </a>
 
 
@@ -208,27 +190,9 @@
 
 
 
-<a  title="Roadmap" href="https://investing.jstock.co/roadmap/">
+<a  title="Deposit &amp; Withdrawal" href="https://investing.jstock.co/deposit-withdrawal/">
 	
-	Roadmap
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="License" href="https://investing.jstock.co/license/">
-	
-	License
+	Deposit &amp; Withdrawal
 </a>
 
 
@@ -254,222 +218,31 @@
 
 			
 
-<h2 id="installation">Installation</h2>
+<h2 id="who-are-we">Who are we?</h2>
 
-<h3 id="installing-hugo">Installing Hugo</h3>
+<p>Yocto Enterprise, business registration no. 002598402-W develops and distributes <a href="https://play.google.com/store/apps/details?id=org.yccheok.jstock.gui">JStock Android</a> and <a href="http://jstock.org/">JStock Desktop</a>, to provide users with the ability to purchase selected securities listed on United States stock exchanges, including fractional interests in those securities.</p>
 
-<p>Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases. You just need to download the <a href="https://github.com/spf13/hugo/releases">latest version</a>. For more information read the official <a href="http://gohugo.io/overview/installing/">installation guides</a>.</p>
+<p>When you sign up using JStock Android or JStock Desktop, you agree to commence the application process for a:</p>
 
-<p>Let&rsquo;s make sure Hugo is set up as expected. You should see a similar version number in your terminal:</p>
+<ul>
+<li>DriveWealth, LLC US brokerage account.</li>
+</ul>
 
-<pre><code class="language-sh">hugo version
-# Hugo Static Site Generator v0.15 BuildDate: 2016-01-03T12:47:47+01:00
-</code></pre>
+<p>We have entered into a Foreign Finder Agreement with DriveWealth, LLC (DriveWealth). DriveWealth provides execution and clearing services to the customer. Your identity will be disclosed to DriveWealth, so that DriveWealth can enter into a broking agreement with you.</p>
 
-<h3 id="installing-material">Installing Material</h3>
+<h2 id="who-is-drivewealth">Who is DriveWealth?</h2>
 
-<p>Next, assuming you have Hugo up and running the <code>hugo-material-docs</code> theme can be installed with <code>git</code>:</p>
+<p>DriveWealth, LLC is an SEC-registered broker/dealer and a member of FINRA and SIPC, which protects securities customers of its members up to $500,000 (including $250,000 for claims for cash). Explanatory brochure available upon request or at <a href="https://www.sipc.org/">https://www.sipc.org/</a>.</p>
 
-<pre><code class="language-sh"># create a new Hugo website
-hugo new site my-awesome-docs
+<p>DriveWealth is partnered with Industrial and Commercial Bank of China Financial Services (&ldquo;ICBSFS&rdquo;), the US subsidiary of the Industrial and Commercial Bank of China, the largest bank in the world, as its clearing agent.</p>
 
-# move into the themes folder of your website
-cd my-awesome-docs/themes/
+<h2 id="what-is-foreign-finder">What is foreign finder?</h2>
 
-# download the theme
-git clone git@github.com:digitalcraftsman/hugo-material-docs.git
-</code></pre>
+<p>Yocto Enterprise acts as a foreign finder, who provides customer introduction to DriveWealth’s brokerage service. We&rsquo;re compensated by DriveWealth on a per transaction basis, as a percent of the transaction commission that DriveWealth earns from the introduced customer, as long as the customer remains a customer of DriveWealth. Finder would be paid a U.S. dollar fee (by DriveWealth, at no cost to  customer) monthly in arrears.</p>
 
-<h2 id="setup">Setup</h2>
+<h2 id="is-it-safe">Is it safe?</h2>
 
-<p>Next, take a look in the <code>exampleSite</code> folder at <code>themes/hugo-material-docs/</code>. This directory contains an example config file and the content that you are currently reading. It serves as an example setup for your documentation.</p>
-
-<p>Copy at least the <code>config.toml</code> in the root directory of your website. Overwrite the existing config file if necessary.</p>
-
-<p>Hugo includes a development server, so you can view your changes as you go -
-very handy. Spin it up with the following command:</p>
-
-<pre><code class="language-sh">hugo server
-</code></pre>
-
-<p>Now you can go to <a href="http://localhost:1313">localhost:1313</a> and the Material
-theme should be visible. You can now start writing your documentation, or read
-on and customize the theme through some options.</p>
-
-<h2 id="configuration">Configuration</h2>
-
-<p>Before you are able to deploy your documentation you should take a few minute to adjust some information in the <code>config.toml</code>. Open the file in an editor:</p>
-
-<pre><code class="language-toml">baseurl = &quot;https://example.com/&quot;
-languageCode = &quot;en-us&quot;
-title = &quot;Material Docs&quot;
-
-[params]
-  # General information
-  author = &quot;Digitalcraftsman&quot;
-  description = &quot;A material design theme for documentations.&quot;
-  copyright = &quot;Released under the MIT license&quot;
-</code></pre>
-
-<h2 id="options">Options</h2>
-
-<h3 id="github-integration">Github integration</h3>
-
-<p>If your project is hosted on GitHub, add the repository link to the
-configuration. If the <code>provider</code> equals <strong>GitHub</strong>, the Material theme will
-add a download and star button, and display the number of stars:</p>
-
-<pre><code class="language-toml">[params]
-  # Repository
-  provider = &quot;GitHub&quot;
-  repo_url = &quot;https://github.com/digitalcraftsman/hugo-material-docs&quot;
-</code></pre>
-
-<h3 id="adding-a-version">Adding a version</h3>
-
-<p>In order to add the current version next to the project banner inside the
-drawer, you can set the variable <code>version</code>:</p>
-
-<pre><code class="language-toml">[params]
-  version = &quot;1.0.0&quot;
-</code></pre>
-
-<p>This will also change the link behind the download button to point to the
-archive with the respective version on GitHub, assuming a release tagged with
-this exact version identifier.</p>
-
-<h3 id="adding-a-logo">Adding a logo</h3>
-
-<p>If your project has a logo, you can add it to the drawer/navigation by defining
-the variable <code>logo</code>. Ideally, the image of your logo should have
-rectangular shape with a minimum resolution of 128x128 and leave some room
-towards the edges. The logo will also be used as a web application icon on iOS.
-Either save your logo somewhere in the <code>static/</code> folder and reference the file relative to this location or use an external URL:</p>
-
-<pre><code class="language-toml">[params]
-  logo = &quot;images/logo.png&quot;
-</code></pre>
-
-<h3 id="adding-a-custom-favicon">Adding a custom favicon</h3>
-
-<p>Favicons are small small icons that are displayed in the tabs right next to the title of the current page. As with the logo above you need to save your favicon in <code>static/</code> and link it relative to this folder or use an external URL:</p>
-
-<pre><code class="language-toml">[params]
-  favicon = &quot;favicon.ico&quot;
-</code></pre>
-
-<h3 id="google-analytics">Google Analytics</h3>
-
-<p>You can enable Google Analytics by replacing <code>UA-XXXXXXXX-X</code> with your own tracking code.</p>
-
-<pre><code class="language-toml">googleAnalytics = &quot;UA-XXXXXXXX-X&quot;
-</code></pre>
-
-<h3 id="small-tweaks">Small tweaks</h3>
-
-<p>This theme provides a simple way for making small adjustments, that is changing
-some margins, centering text, etc. The <code>custom_css</code> and <code>custom_js</code> option allow you to add further CSS and JS files. They can either reside locally in the <code>/static</code> folder or on an external server, e.g. a CDN. In both cases use either the relative path to <code>/static</code> or the absolute URL to the external ressource.</p>
-
-<pre><code class="language-toml">[params]
-  # Custom assets
-  custom_css = [
-    &quot;foo.css&quot;,
-    &quot;bar.css&quot;
-  ]
-
-  custom_js  = [&quot;buzz.js&quot;]
-</code></pre>
-
-<h3 id="changing-the-color-palette">Changing the color palette</h3>
-
-<p>Material defines a default hue for every primary and accent color on Google&rsquo;s
-material design [color palette][]. This makes it very easy to change the overall look of the theme. Just set the variables <code>palette.primary</code> and <code>palette.accent</code> to one of the colors defined in the palette:</p>
-
-<pre><code class="language-toml">[params.palette]
-  primary = &quot;red&quot;
-  accent  = &quot;light-green&quot;
-</code></pre>
-
-<p>Color names can be written upper- or lowercase but must match the names of the
-material design <a href="http://www.materialui.co/colors">color palette</a>. Valid values are: <em>red</em>, <em>pink</em>, <em>purple</em>, <em>deep purple</em>, <em>indigo</em>, <em>blue</em>, <em>light-blue</em>, <em>cyan</em>, <em>teal</em>, <em>green</em>, <em>light-green</em>,
-<em>lime</em>, <em>yellow</em>, <em>amber</em>, <em>orange</em>, <em>deep-orange</em>, <em>brown</em>, <em>grey</em> and
-<em>blue-grey</em>. The last three colors can only be used as a primary color.</p>
-
-<p><img src="https://investing.jstock.co/images/colors.png" alt="Color palette" /></p>
-
-<p>If the color is set via this configuration, an additional CSS file called
-<code>palettes.css</code> is included that defines the color palettes.</p>
-
-<h3 id="changing-the-font-family">Changing the font family</h3>
-
-<p>Material uses the <a href="http://font.ubuntu.com">Ubuntu font family</a> by default, specifically the regular sans-serif type for text and the monospaced type for code. Both fonts are loaded from <a href="https://www.google.com/fonts">Google Fonts</a> and can be easily changed to other fonts, like for example Google&rsquo;s own <a href="https://www.google.com/fonts/specimen/Roboto">Roboto font</a>:</p>
-
-<pre><code class="language-toml">[params.font]
-  text = &quot;Roboto&quot;
-  code = &quot;Roboto Mono&quot;
-</code></pre>
-
-<p>The text font will be loaded in font-weights 400 and <strong>700</strong>, the monospaced
-font in regular weight.</p>
-
-<h3 id="syntax-highlighting">Syntax highlighting</h3>
-
-<p>This theme uses the popular <a href="https://highlightjs.org/">Highlight.js</a> library to colorize code examples. The default theme is called <code>Github</code> with a few small tweaks. You can link our own theme if you like. Again, store your stylesheet in the <code>static/</code> folder and set the relative path in the config file:</p>
-
-<pre><code class="language-toml">[params]
-  # Syntax highlighting theme
-  highlight_css  = &quot;path/to/theme.css&quot;
-</code></pre>
-
-<h3 id="adding-a-github-and-twitter-account">Adding a GitHub and Twitter account</h3>
-
-<p>If you have a GitHub and/or Twitter account, you can add links to your
-accounts to the drawer by setting the variables <code>github</code> and
-<code>twitter</code> respectively:</p>
-
-<pre><code class="language-toml">[social]
-  twitter = &quot;&quot;
-  github  = &quot;digitalcraftsman&quot;
-</code></pre>
-
-<h3 id="adding-menu-entries">Adding menu entries</h3>
-
-<p>Once you created your first content files you can link them manually in the sidebar on the left. A menu entry has the following schema:</p>
-
-<pre><code class="language-toml">[[menu.main]]
-  name   = &quot;Material&quot;
-  url    = &quot;/&quot;
-  weight = 0
-  pre    = &quot;&quot;
-</code></pre>
-
-<p><code>name</code> is the title displayed in the menu and <code>url</code> the relative URL to the content. The <code>weight</code> attribute allows you to modify the order of the menu entries. A menu entry appears further down the more weight you add. The <code>pre</code> attribute is optional and allows you to *pre*pend elements to a menu link, e.g. an icon.</p>
-
-<p>Instead of just linking a single file you can enhance the sidebar by creating a nested menu. This way you can list all pages of a section instead of linking them one by one (without nesting).</p>
-
-<p>You need extend the frontmatter of each file content file in a section slightly. The snippet below registers this content file as &lsquo;child&rsquo; of a menu entry that already exists.</p>
-
-<pre><code class="language-yaml">menu:
-  main:
-    parent: Material
-    identifier: &lt;link name&gt;
-    weight: 0
-</code></pre>
-
-<p><code>main</code> specifies to which menu the content file should be added. <code>main</code> is the only menu in this theme by default. <code>parent</code> let&rsquo;s you register this content file to an existing menu entry, in this case the <code>Material</code> link. Note that the parent in the frontmatter needs to match the name in <code>config.toml</code>.</p>
-
-<p><code>identifier</code> is the link that is shown in the menu. Ideally you choose the same name for the <code>identifier</code> and the <code>title</code> of the page. Again, <code>weight</code> allows you to change the order of the nested links in a section.</p>
-
-<h3 id="markdown-extensions">Markdown extensions</h3>
-
-<p>Hugo uses <a href="https://github.com/russross/blackfriday">Blackfriday</a> to process your content. For a detailed description of all options take a look at the <a href="http://gohugo.io/overview/configuration/#configure-blackfriday-rendering">Blackfriday configuration</a> section in the Hugo documentation.</p>
-
-<pre><code class="language-toml">[blackfriday]
-  smartypants = true
-  fractions = true
-  smartDashes = true
-  plainIDAnchors = true
-</code></pre>
+<p>We utilize the latest SSL technology to encrypt, monitor and protect your data. Investor securities are held in an omnibus account in DriveWealth’s name at the Industrial and Commercial Bank of China Financial Services (&ldquo;ICBSFS&rdquo;), the US subsidiary of the Industrial and Commercial Bank of China, the largest bank in the world in terms of customers and assets.  Investor cash is swept into a money market account at Federated Investors, Inc., a leading cash management firm.</p>
 
 
 			<aside class="copyright" role="note">
@@ -486,34 +259,18 @@ accounts to the drawer by setting the variables <code>github</code> and
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
   
-      <a href="https://investing.jstock.co/" title="Getting started">
-        <span class="direction">
-          Previous
-        </span>
-        <div class="page">
-          <div class="button button-previous" role="button" aria-label="Previous">
-            <i class="icon icon-back"></i>
-          </div>
-          <div class="stretch">
-            <div class="title">
-              Getting started
-            </div>
-          </div>
-        </div>
-      </a>
-  
   </div>
 
   <div class="next">
   
-      <a href="https://investing.jstock.co/adding-content/" title="Adding content">
+      <a href="https://investing.jstock.co/accounts/" title="Accounts">
         <span class="direction">
           Next
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Adding content
+              Accounts
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
