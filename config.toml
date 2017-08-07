@@ -48,6 +48,10 @@ googleAnalytics = ""
 	url    = "deposit-withdrawal/"
 	weight = 30
 
+[[menu.main]]
+	name   = "Investing"
+	url    = "investing/"
+	weight = 40
 
 
 [blackfriday]
