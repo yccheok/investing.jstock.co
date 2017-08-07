@@ -28,7 +28,7 @@ They are funded with virtual dollars, not real dollars, which means that a user 
 
 
 
-## How to open live account?
+## How to open Live Account?
 
 You can open a Live Investing Account in 2 simple steps:
 
@@ -56,7 +56,7 @@ Through opening a Live Investing Account with us, you get a US brokerage account
 
 
 
-## How long will my account take to set up?
+## How long for account approval
 
 For Live Investing Account, once you have complete the application & uploaded required documents, your application will be reviewed and verified within 2-3 business days.
 
@@ -65,6 +65,6 @@ Meanwhile, you can start funds in so once your application is approved, you can 
 
 
 
-## For non US citizen, can I open account?
+## Can non-US clients trade?
 
-Yes, you can open a Live Investing Account. For non-US clients opening a Live Investing Account there is a small one-time fee for processing of a W-8BEN tax form, which is used to certify that you are not a United States citizen or resident alien. (Non-United States citizens/residents are exempt from United States tax on capital gains and interest, but are subject to United States withholding tax on dividends based on their country of origin). There is a one-time $5.00 processing fee for this certification, which will be debited from your initial deposit.
+Yes, you can trade with our Live Investing Account. For non-US clients opening a Live Investing Account there is a small one-time fee for processing of a W-8BEN tax form, which is used to certify that you are not a United States citizen or resident alien. (Non-United States citizens/residents are exempt from United States tax on capital gains and interest, but are subject to United States withholding tax on dividends based on their country of origin). There is a one-time $5.00 processing fee for this certification, which will be debited from your initial deposit.
