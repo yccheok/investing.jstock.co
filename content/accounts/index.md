@@ -8,6 +8,11 @@ weight: 20
 
 Yes, you can open a FREE Practice Investing Account by simply providing your First Name, Last Name and Email. You will be given $10,000 virtual cash which you can use to get comfortable with investing for as long as you like.
 
+![practice-signup-1](/images/practice-signup-1.png)
+
+![practice-signup-2](/images/practice-signup-2.png)
+
+
 
 ```go
 Notes:
@@ -25,18 +30,21 @@ They are funded with virtual dollars, not real dollars, which means that a user 
 
 You can open a Live Investing Account in 2 simple steps:
 
-```go
-1. Complete the Live Investing Account application.
+1) Click on `UPGRADE TO LIVE ACCOUNT` to complete the Live Investing Account application.
 
-2. Upload each of this:
-    a) Photo ID (license, passport etc)
-    b) Document showing your current residential address (license, utility bill etc)
+2) Upload each of this:
+
+* Photo ID (license, passport etc)
+* Document showing your current residential address (license, utility bill etc)
 
 Driver’s license is the best form of ID as it includes both photo ID and your address on it.
 Other combinations of ID & address documents works fine too.
-```
 
+![live-signup-1](/images/live-signup-1.png)
 
+![live-signup-2](/images/live-signup-2.png)
+
+![upload-docs](/images/upload-docs.png)
 
 
 ## How does the account works?

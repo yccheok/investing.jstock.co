@@ -11,6 +11,11 @@ While your account application is under review, you may already start deposit mo
 
 If your account is already approved, just click on `CASH DEPOSIT`.
 
+![deposit-1](/images/deposit-1.png)
+
+![deposit-2](/images/deposit-2.png)
+
+
 
 
 ## What methods can I used to deposit funds?
@@ -29,8 +34,15 @@ To deposit funds into your Live Investing Account, the following methods are ava
 
 Your funds are held with Federated Investors, Inc.
 
+![deposit-methods](/images/deposit-methods.png)
+
+
 
 
 ## How to withdraw money from my account?
 
-To withdraw money from your Live Investing Account, click on `Cash` card, select `Withdraw Funds`.
+To withdraw money from your Live Investing Account, click on `Cash` card, select `Withdraw Funds` tab.
+
+![withdrawal](/images/withdrawal.png)
+
+![withdrawal-methods](/images/withdrawal-methods.png)
