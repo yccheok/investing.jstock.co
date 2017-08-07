@@ -23,35 +23,25 @@ When you sign up using JStock Android or JStock Desktop, you agree to commence t
     </item>
     
     <item>
-      <title>Adding content</title>
-      <link>https://investing.jstock.co/adding-content/</link>
-      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
+      <title>Accounts</title>
+      <link>https://investing.jstock.co/accounts/</link>
+      <pubDate>Sun, 06 Aug 2017 15:40:07 +0800</pubDate>
       
-      <guid>https://investing.jstock.co/adding-content/</guid>
-      <description>Hello world Let&amp;rsquo;s create our first content file for your documentation. Open a terminal and add the following command for each new file you want to add. Replace &amp;lt;section-name&amp;gt; with a general term that describes your document in detail.
-hugo new &amp;lt;section-name&amp;gt;/filename.md  Visitors of your website will find the final document under www.example.com/&amp;lt;section-name&amp;gt;/filename/.
-Since it&amp;rsquo;s possible to have multiple content files in the same section I recommend to create at least one index.</description>
+      <guid>https://investing.jstock.co/accounts/</guid>
+      <description>Can I try for free? Yes, you can open a FREE Practice Investing Account by simply providing your First Name, Last Name and Email. You will be given $10,000 virtual cash which you can use to get comfortable with investing for as long as you like.
+Notes: Practice Accounts are open 24/7 but prices only update during normal market hours. They are available to users risk free and at no cost.</description>
     </item>
     
     <item>
-      <title>Roadmap</title>
-      <link>https://investing.jstock.co/roadmap/</link>
-      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      <title>Deposit &amp; Withdrawal</title>
+      <link>https://investing.jstock.co/funds/</link>
+      <pubDate>Sun, 06 Aug 2017 15:40:07 +0800</pubDate>
       
-      <guid>https://investing.jstock.co/roadmap/</guid>
-      <description>Quo vadis? The port of the original Material theme has replicated nearly all of its features. A few are still missing but I&amp;rsquo;ve good news: the Hugo community is actively working on this issues. Maybe with the next release of Hugo we can abandon this list. Stay tuned.
-Localization Currently, it is possible to collect all strings in a single place for easy customization. However, this only enables you to define all strings in a single language.</description>
-    </item>
-    
-    <item>
-      <title>License</title>
-      <link>https://investing.jstock.co/license/</link>
-      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
-      
-      <guid>https://investing.jstock.co/license/</guid>
-      <description>Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
-Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+      <guid>https://investing.jstock.co/funds/</guid>
+      <description>How to deposit money to my account? While your account application is under review, you may already start deposit money into your account. Just click on PENDING APPROVAL, choose your desired deposit method to deposit.
+If your account is already approved, just click on CASH DEPOSIT.
+What methods can I used to deposit funds? To deposit funds into your Live Investing Account, the following methods are available:
+ Linked Bank Account (ACH) - U.</description>
     </item>
     
   </channel>

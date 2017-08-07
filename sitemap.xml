@@ -8,23 +8,18 @@
   </url>
   
   <url>
-    <loc>https://investing.jstock.co/adding-content/</loc>
-    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+    <loc>https://investing.jstock.co/accounts/</loc>
+    <lastmod>2017-08-06T15:40:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investing.jstock.co/roadmap/</loc>
-    <lastmod>2016-03-09T20:08:11+01:00</lastmod>
+    <loc>https://investing.jstock.co/funds/</loc>
+    <lastmod>2017-08-06T15:40:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investing.jstock.co/license/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://investing.jstock.co/adding-content/</loc>
-    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+    <loc>https://investing.jstock.co/accounts/</loc>
+    <lastmod>2017-08-06T15:40:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -34,20 +29,14 @@
   </url>
   
   <url>
+    <loc>https://investing.jstock.co/funds/</loc>
+    <lastmod>2017-08-06T15:40:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://investing.jstock.co/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://investing.jstock.co/license/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://investing.jstock.co/roadmap/</loc>
-    <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
