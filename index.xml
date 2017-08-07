@@ -46,5 +46,14 @@ Payment methods for deposit To deposit funds into your Live Investing Account, t
  Linked Bank Account (ACH) - U.S. client Only Charge Cards - We accept Visa, Mastercard, Discover and American Express Wire Transfer USD Check Western Union Dwolla - U.</description>
     </item>
     
+    <item>
+      <title>Investing</title>
+      <link>https://investing.jstock.co/investing/</link>
+      <pubDate>Sun, 06 Aug 2017 15:40:07 +0800</pubDate>
+      
+      <guid>https://investing.jstock.co/investing/</guid>
+      <description>Where is dividends paid? If you own a company that pays dividend in your Live Investing Account, these funds will be paid into your account. Once deposited, you can decide what to do with these funds - reinvest back into new investments, keep them in cash in your account or withdraw the money.</description>
+    </item>
+    
   </channel>
 </rss>
