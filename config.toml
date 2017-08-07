@@ -1,4 +1,4 @@
-baseurl = "https://shuwnyuantee.github.io/investing.jstock.co/"
+baseurl = "https://investing.jstock.co/"
 languageCode = "en-us"
 title = "JStock U.S. Investing"
 theme = "hugo-material-docs"
