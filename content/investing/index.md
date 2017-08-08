@@ -7,4 +7,4 @@ weight: 40
 
 ## Where is dividends paid? 
 
-If you own a company that pays dividend in your Live Investing Account, these funds will be paid into your account. Once deposited, you can decide what to do with these funds - reinvest back into new investments, keep them in cash in your account or withdraw the money.
+In your Live Investing Account, if you own a company that pays dividend, these funds will be paid into your account. Once deposited, you can decide what to do with these funds - reinvest back into new investments, keep them in cash in your account or withdraw the money.
