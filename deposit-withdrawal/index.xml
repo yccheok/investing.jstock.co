@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deposit-withdrawals on JStock U.S. Investing</title>
-    <link>https://investing.jstock.co/deposit-withdrawal/</link>
+    <link>//investing.jstock.co/deposit-withdrawal/</link>
     <description>Recent content in Deposit-withdrawals on JStock U.S. Investing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Aug 2017 15:40:07 +0800</lastBuildDate>
     
-	<atom:link href="https://investing.jstock.co/deposit-withdrawal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//investing.jstock.co/deposit-withdrawal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deposit &amp; Withdrawal</title>
-      <link>https://investing.jstock.co/deposit-withdrawal/</link>
+      <link>//investing.jstock.co/deposit-withdrawal/</link>
       <pubDate>Sun, 06 Aug 2017 15:40:07 +0800</pubDate>
       
-      <guid>https://investing.jstock.co/deposit-withdrawal/</guid>
+      <guid>//investing.jstock.co/deposit-withdrawal/</guid>
       <description>How to deposit money? While your account application is under review, you may already start deposit money into your account. Just click on PENDING APPROVAL, choose your desired deposit method to deposit.
 If your account is already approved, just click on CASH DEPOSIT.
-  Payment methods for deposit To deposit funds into your Live Investing Account, the following methods are available:
+Payment methods for deposit To deposit funds into your Live Investing Account, the following methods are available:
  Linked Bank Account (ACH) - U.S. client Only Charge Cards - We accept Visa, Mastercard, Discover and American Express Wire Transfer USD Check Western Union Dwolla - U.</description>
     </item>
     
