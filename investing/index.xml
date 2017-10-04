@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investings on JStock U.S. Investing</title>
-    <link>//investing.jstock.co/investing/</link>
+    <link>https://investing.jstock.co/investing/</link>
     <description>Recent content in Investings on JStock U.S. Investing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Aug 2017 15:40:07 +0800</lastBuildDate>
     
-	<atom:link href="//investing.jstock.co/investing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://investing.jstock.co/investing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Investing</title>
-      <link>//investing.jstock.co/investing/</link>
+      <link>https://investing.jstock.co/investing/</link>
       <pubDate>Sun, 06 Aug 2017 15:40:07 +0800</pubDate>
       
-      <guid>//investing.jstock.co/investing/</guid>
-      <description>Where is dividends paid? In your Live Investing Account, if you own a company that pays dividend, these funds will be paid into your account. Once deposited, you can decide what to do with these funds - reinvest back into new investments, keep them in cash in your account or withdraw the money.</description>
+      <guid>https://investing.jstock.co/investing/</guid>
+      <description>Where is dividends paid? In your Live Investing Account, if you own a company that pays dividend, these funds will be paid into your account. Once deposited, you can decide what to do with these funds - reinvest back into new investments, keep them in cash in your account or withdraw the money.
+What types of instruments are offered? You can trade on US stocks, ADR and ETF.
+What is ADR?</description>
     </item>
     
   </channel>

@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//investing.jstock.co/getting-started/</loc>
+    <loc>https://investing.jstock.co/getting-started/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/accounts/</loc>
+    <loc>https://investing.jstock.co/accounts/</loc>
     <lastmod>2017-08-06T15:40:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/deposit-withdrawal/</loc>
+    <loc>https://investing.jstock.co/deposit-withdrawal/</loc>
     <lastmod>2017-08-06T15:40:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/investing/</loc>
+    <loc>https://investing.jstock.co/investing/</loc>
     <lastmod>2017-08-06T15:40:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/accounts/</loc>
-    <lastmod>2017-08-06T15:40:07+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//investing.jstock.co/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//investing.jstock.co/deposit-withdrawal/</loc>
+    <loc>https://investing.jstock.co/accounts/</loc>
     <lastmod>2017-08-06T15:40:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/getting-started/</loc>
-    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+    <loc>https://investing.jstock.co/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/investing/</loc>
+    <loc>https://investing.jstock.co/deposit-withdrawal/</loc>
     <lastmod>2017-08-06T15:40:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/</loc>
+    <loc>https://investing.jstock.co/getting-started/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//investing.jstock.co/tags/</loc>
+    <loc>https://investing.jstock.co/investing/</loc>
+    <lastmod>2017-08-06T15:40:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://investing.jstock.co/</loc>
+    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://investing.jstock.co/tags/</loc>
     <priority>0</priority>
   </url>
   
