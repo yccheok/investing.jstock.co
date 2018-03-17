@@ -17,7 +17,7 @@ We have entered into a Foreign Finder Agreement with DriveWealth, LLC (DriveWeal
 
 ## Who is DriveWealth?
 
-DriveWealth, LLC is an SEC-registered broker/dealer and a member of FINRA and SIPC, which protects securities customers of its members up to $500,000 (including $250,000 for claims for cash). Explanatory brochure available upon request or at [https://www.sipc.org/](https://www.sipc.org/).
+DriveWealth, LLC is a SEC-registered broker/dealer and a member of FINRA and SIPC, which protects securities customers of its members up to $500,000 (including $250,000 for claims for cash). Explanatory brochure available upon request or at [https://www.sipc.org/](https://www.sipc.org/).
 
 DriveWealth is partnered with Industrial and Commercial Bank of China Financial Services ("ICBSFS"), the US subsidiary of the Industrial and Commercial Bank of China, the largest bank in the world, as its clearing agent.
 
